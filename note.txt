@@ -6,3 +6,10 @@ Liên kết Repo local và Repo remote : git remote add origin url
 
 Đưa code từ local lên remote : 3 bước
 b1 chọn : git add -A
+b2 xác nhận và viết message : git commit -m "noi dung messsage"
+b3 đẩy : b3.1  Đẩy lần đầu : git push -u origin master
+         b3.2  Đẩy 2 trở đi: git push
+
+
+
+branch ( nhánh )
