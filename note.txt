@@ -20,3 +20,6 @@ tạo nhánh mới : git checkout -b nhanhMoi
 xem các nhánh hiện có:  git branch
 
 chuyển nhánh : git checkout tenNhanh
+
+
+đem code từ register về master: git merge register ( đứng tại master)
