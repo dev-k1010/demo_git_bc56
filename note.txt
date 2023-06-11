@@ -13,3 +13,10 @@ b3 đẩy : b3.1  Đẩy lần đầu : git push -u origin master
 
 
 branch ( nhánh )
+
+
+tạo nhánh mới : git checkout -b nhanhMoi
+
+xem các nhánh hiện có:  git branch
+
+chuyển nhánh : git checkout tenNhanh
